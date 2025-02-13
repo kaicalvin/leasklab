@@ -651,61 +651,110 @@
   orcid: 0000-0003-3199-5277
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1038/s41588-024-01921-5
+  title: A genome-wide association analysis reveals new pathogenic pathways in gout
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Tanya J. Major
+  - Riku Takei
+  - Hirotaka Matsuo
+  - Megan P. Leask
+  - Nicholas A. Sumpter
+  - Ruth K. Topless
+  - Yuya Shirai
+  - Wei Wang
+  - Murray J. Cadzow
+  - Amanda J. Phipps-Green
+  - Zhiqiang Li
+  - Aichang Ji
+  - Marilyn E. Merriman
+  - Emily Morice
+  - Eric E. Kelley
+  - Wen-Hua Wei
+  - Sally P. A. McCormick
+  - Matthew J. Bixley
+  - Richard J. Reynolds
+  - Kenneth G. Saag
+  - Tayaza Fadason
+  - Evgenia Golovina
+  - "Justin M. O\u2019Sullivan"
+  - Lisa K. Stamp
+  - Nicola Dalbeth
+  - Abhishek Abhishek
+  - Michael Doherty
+  - Edward Roddy
+  - Lennart T. H. Jacobsson
+  - Meliha C. Kapetanovic
+  - Olle Melander
+  - "Mariano Andr\xE9s"
+  - "Fernando P\xE9rez-Ruiz"
+  - Rosa J. Torres
+  - Timothy Radstake
+  - Timothy L. Jansen
+  - Matthijs Janssen
+  - Leo A. B. Joosten
+  - Ruiqi Liu
+  - Orsolya I. Gaal
+  - "Tania O. Cri\u015Fan"
+  - Simona Rednic
+  - Fina Kurreeman
+  - Tom W. J. Huizinga
+  - "Ren\xE9 Toes"
+  - "Fr\xE9d\xE9ric Liot\xE9"
+  - Pascal Richette
+  - Thomas Bardin
+  - Hang Korng Ea
+  - Tristan Pascart
+  - Geraldine M. McCarthy
+  - Laura Helbert
+  - "Blanka Stib\u016Frkov\xE1"
+  - Anne-K. Tausche
+  - Till Uhlig
+  - "V\xE9ronique Vitart"
+  - Thibaud S. Boutin
+  - Caroline Hayward
+  - Philip L. Riches
+  - Stuart H. Ralston
+  - Archie Campbell
+  - Thomas M. MacDonald
+  - Akiyoshi Nakayama
+  - Tappei Takada
+  - Masahiro Nakatochi
+  - Seiko Shimizu
+  - Yusuke Kawamura
+  - Yu Toyoda
+  - Hirofumi Nakaoka
+  - Ken Yamamoto
+  - Keitaro Matsuo
+  - Nariyoshi Shinomiya
+  - Kimiyoshi Ichida
+  - Chaeyoung Lee
+  - Linda A. Bradbury
+  - Matthew A. Brown
+  - Philip C. Robinson
+  - Russell R. C. Buchanan
+  - Catherine L. Hill
+  - Susan Lester
+  - Malcolm D. Smith
+  - Maureen Rischmueller
+  - Hyon K. Choi
+  - Eli A. Stahl
+  - Jeff N. Miner
+  - Daniel H. Solomon
+  - Jing Cui
+  - Kathleen M. Giacomini
+  - Deanna J. Brackman
+  - Eric M. Jorgenson
+  - Hongbo Liu
+  - Katalin Susztak
+  - Suyash Shringapure
+  - Suyash Shringarpure
+  - Alexander So
+  - Yukinori Okada
+  - Changgui Li
+  - Yongyong Shi
+  - Tony R. Merriman
+  publisher: Nature Genetics
+  date: '2024-10-15'
+  link: https://doi.org/g8gvpk
   plugin: sources.py
   file: sources.yaml
