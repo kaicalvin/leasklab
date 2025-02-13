@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # kaicalvin's Website
+  # Megan Leask's lab Website
 
   Visit **[kaicalvin.github.io/leasklab](https://kaicalvin.github.io/leasklab)** 🚀
 
