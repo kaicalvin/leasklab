@@ -1,47 +1,21 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: The Pathogenesis of Gout
+  subtitle: Review article
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/pics2show/41584_2024_1137_Fig2_HTML.webp
+  link: https://www.nature.com/articles/s41584-024-01137-1
+  description: Genome-wide association studies of gout are yet to be conducted in under-represented populations; however, the identification of population-specific genetic variants is providing new insights into the pathogenesis of gout.
+  repo:
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Zebrafish for the Study of Enhancer Activity in Human Traits and Disease
+  subtitle: Review article
+  group: featured
+  image: images/pics2show/F6.png
+  link: https://www.intechopen.com/chapters/1164551
+  description: History and most recent developments in the zebrafish enhancer assay to contribute to both human Mendelian and complex polygenic disease.
+  repo: 
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - resource
+    - publication
