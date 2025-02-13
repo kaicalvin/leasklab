@@ -1,9 +1,9 @@
 ---
 ---
 
-# kaicalvin's Website
+# Leask Lab Website
 
-An engaging 1-3 sentence description of your lab.
+I lead the Equity iN Health And Non-Coding Elements (ENHANCE) lab. The ENHANCE lab research projects aim to assign function to genetic variants that are associated with health and disease using bioinformatics, zebrafish and cell assays. We work with Māori and Pacific genetic data to identify clinically-relevant genetic variants that are unique to Māori and Pacific people and we focus on conditions that affect women and are underrepresented in the research space. The long-term outcomes of our work has the potential to reduce health disparities and improve genetic equity in these underrepresented groups.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My research projects aim to assign function to genetic variants that are associated with health and disease using bioinformatics, zebrafish and cell assays. I also work with Māori and Pacific genetic data to identify clinically-relevant genetic variants that are unique to Māori and Pacific people. The long-term outcomes of this work has the potential to reduce health disparities and improve genetic equity in these population groups.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Here are the current/active projects in the lab
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+People in our group
 
 {%
   include button.html
