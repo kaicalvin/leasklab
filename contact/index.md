@@ -33,6 +33,12 @@ Please feel free to contact us if you would like to learn more about our researc
 
 {% endcapture %}
 
+{% capture col2 %}
+
+{% %}
+
+{% endcapture %}
+
 {% capture col3 %}
 
 {%
@@ -43,25 +49,25 @@ Please feel free to contact us if you would like to learn more about our researc
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Department of Physiology
-School of Biomedical Sciences
-University of Otago
-PO Box 56
-Dunedin 9054
-New Zealand
+Department of Physiology  
+School of Biomedical Sciences  
+University of Otago  
+PO Box 56  
+Dunedin 9054  
+New Zealand  
 {% endcapture %}
 
 {% capture col2 %}
-Department of Physiology
-Lindo Ferguson Building
-270 Great King Street
-Dunedin Central
-Dunedin 9016r
+Department of Physiology  
+Lindo Ferguson Building  
+270 Great King Street  
+Dunedin Central  
+Dunedin 9016  
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
