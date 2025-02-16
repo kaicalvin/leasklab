@@ -74,7 +74,7 @@ People in our group
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members/lab_photo_2024.jpg"
   link="team"
   title="Our Team"
   text=text
