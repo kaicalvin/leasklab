@@ -1,8 +1,8 @@
 ---
-title: Example post 3
-image: images/photo.jpg
-author: john-doe
-tags: biology, medicine
+title: Lab photos!
+image: images/lab_photo_01.jpg
+author: That guy
+tags: blog, updates
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Candid lab photo
