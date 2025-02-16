@@ -24,34 +24,10 @@ Please feel free to contact us if you would like to learn more about our researc
 
 {% include section.html %}
 
-{% capture col1 %}
-
 {%
   include gmap.html
   caption="Where we are"
 %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{% include figure.html
-   caption=""
-%}
-
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
