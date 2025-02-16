@@ -35,7 +35,9 @@ Please feel free to contact us if you would like to learn more about our researc
 
 {% capture col2 %}
 
-{% caption="" %}
+{% include figure.html
+   caption=""
+%}
 
 {% endcapture %}
 
