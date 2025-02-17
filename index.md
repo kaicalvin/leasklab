@@ -49,7 +49,7 @@ Here are the current/active projects in the lab
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pics2show/wfa_whole_larvae.jpg"
   link="projects"
   title="Our Projects"
   flip=true
