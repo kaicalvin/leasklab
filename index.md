@@ -26,7 +26,7 @@ My research projects aim to assign function to genetic variants that are associa
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pics2show/41584_2024_1137_Fig2_HTML.webp"
   link="research"
   title="Our Research"
   text=text
