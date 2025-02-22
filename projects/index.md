@@ -9,7 +9,7 @@ nav:
 
 Here you will find main research themes carried out by us and our collaborators.
 
-{% include tags.html tags="publication, resource, website" repo="kaicalvin/leasklab" link="projects"%}
+{% include tags.html tags="publication, resource, website" repo="kaicalvin/leasklab" %}
 
 {% include search-info.html %}
 
