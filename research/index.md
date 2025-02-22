@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Here yo will find our disseminated work.
+Here you will find our disseminated work.
 
 {% include section.html %}
 
