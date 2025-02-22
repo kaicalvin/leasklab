@@ -1,6 +1,6 @@
 ---
 name: Megan Leask
-image: images/members/megan_leask.jpg
+image: images/members/Megan-Leask-image-372w.jpg
 role: pi
 affiliation: Kāi Tahu | Physiology | CNE
 email: megan.leask@otago.ac.nz
