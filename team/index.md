@@ -16,7 +16,7 @@ We are a team of geneticisits, statisticians, cell biologists, neuroscientists a
 
 {% include section.html background="images/JAZF1_caudal.jpg" dark=true %}
 
-Past members
+# Past members
 
 {% include section.html %}
 
