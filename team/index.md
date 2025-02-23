@@ -14,7 +14,7 @@ We are a team of geneticisits, statisticians, cell biologists, neuroscientists a
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/JAZF1_caudal.jpg" dark=true %}
 
 Past members
 
