@@ -1,5 +1,5 @@
 ---
-name: Megan Leask
+name: Megan Leask, PhD
 image: images/members/Megan-Leask-image-372w.jpg
 role: pi
 affiliation: Kāi Tahu | Physiology | CNE
