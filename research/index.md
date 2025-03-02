@@ -13,7 +13,7 @@ Here you will find our disseminated work.
 
 ## Highlighted
 
-{% include citation.html lookup="A genome-wide association analysis reveals new pathogenic pathways in gout" style="rich" %}
+{% include citation.html lookup="pubmed:39406924" style="rich" %}
 
 {% include section.html %}
 
