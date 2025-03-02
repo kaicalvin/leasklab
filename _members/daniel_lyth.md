@@ -1,5 +1,5 @@
 ---
-name:  Daniel Lyth
+name: Daniel Lyth
 image: images/members/daniel_lyth.jpg
 role: phd
 affiliation: Physiology | CNE
