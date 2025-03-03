@@ -12,7 +12,9 @@ We are a team of geneticisits, statisticians, cell biologists, neuroscientists a
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'rstaff'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html background="images/JAZF1_caudal.jpg" dark=true %}
 
