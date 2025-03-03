@@ -5,6 +5,7 @@ role: phd
 affiliation: Physiology | CNE
 email: lytda411@student.otago.ac.nz
 links:
+  ORCID: https://orcid.org/0009-0000-3166-879X
   linkedin: https://www.linkedin.com/in/daniel-lyth-243573212/
   instagram: https://www.instagram.com/end_my_lyth/
 ---
