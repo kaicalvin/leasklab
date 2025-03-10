@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40038847
+  title: 'A rare splice-site variant in TNNT2: the need for ancestral diversity in
+    genomic reference data sets.'
+  authors:
+  - Alexandra Butters
+  - Kate Thomson
+  - Franki Harrington
+  - Natasha Henden
+  - Karen McGuire
+  - Alicia B Byrne
+  - Samantha Bryen
+  - Kathryn A McGurk
+  - Megan Leask
+  - Michael J Ackerman
+  - John Atherton
+  - Johan M Bos
+  - Colleen Caleshu
+  - Sharlene M Day
+  - Kyla Dunn
+  - Ian Hayes
+  - Jimmy Juang
+  - Julie McGaughran
+  - Natalie Nowak
+  - Victoria N Parikh
+  - Anne Ronan
+  - Christopher Semsarian
+  - Jil C Tardiff
+  - Marianne Tiemensma
+  - Tony R Merriman
+  - James S Ware
+  - Jonathan R Skinner
+  - Daniel G MacArthur
+  - Owen M Siggs
+  - Richard D Bagnall
+  - Jodie Ingles
+  publisher: European heart journal
+  date: '2025-03-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40038847
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39568029
   title: Gout-associated SNP at the IL1RN-IL1F10 region is associated with altered
     cytokine production in PBMCs of patients with gout and controls.
