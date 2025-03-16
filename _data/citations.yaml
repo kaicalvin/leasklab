@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40069386
+  title: Hyperuricaemia and gout in the Pacific.
+  authors:
+  - "Baptiste G\xE9rard"
+  - Megan Leask
+  - Tony R Merriman
+  - Thomas Bardin
+  - Erwan Oehler
+  - Aniva Lawrence
+  - Satupaitea Viali
+  - Samuela 'Ofanoa
+  - Leanne Te Karu
+  - Lisa K Stamp
+  - Nicola Dalbeth
+  - Tristan Pascart
+  publisher: Nature reviews. Rheumatology
+  date: '2025-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40069386
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40038847
   title: 'A rare splice-site variant in TNNT2: the need for ancestral diversity in
     genomic reference data sets.'
