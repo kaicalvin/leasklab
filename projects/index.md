@@ -21,4 +21,4 @@ Here you will find main research themes carried out by us and our collaborators.
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'theme'" style="small" %}
