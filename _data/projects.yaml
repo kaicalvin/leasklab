@@ -1,0 +1,15 @@
+- title: The Pathogenesis of Gout
+  subtitle: Review article
+  group: featured
+  image: images/pics2show/41584_2024_1137_Fig2_HTML.webp
+  link: https://www.nature.com/articles/s41584-024-01137-1
+  description: Genome-wide association studies of gout are yet to be conducted in under-represented populations; however, the identification of population-specific genetic variants is providing new insights into the pathogenesis of gout.
+  repo: kaicalvin/leasklab
+
+- title: Zebrafish for the Study of Enhancer Activity in Human Traits and Disease
+  subtitle: Review article
+  group: featured
+  image: images/pics2show/F6.png
+  link: https://www.intechopen.com/chapters/1164551
+  description: History and most recent developments in the zebrafish enhancer assay to contribute to both human Mendelian and complex polygenic disease.
+  repo: kaiclavin/leasklab
