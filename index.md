@@ -1,4 +1,6 @@
 ---
+header-dark: false
+footer-dark: false
 ---
 
 # The ENHANCE Lab
