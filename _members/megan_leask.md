@@ -3,8 +3,8 @@ name: Megan Leask, PhD
 image: images/members/Megan-Leask-image-372w.jpg
 role: pi
 affiliation: Kāi Tahu | Physiology | CNE
-email: megan.leask@otago.ac.nz
 links:
+  email: megan.leask@otago.ac.nz
   home-page: https://www.otago.ac.nz/physiology/research/leask-lab
   orcid: 0000-0003-3199-5277
 ---
