@@ -1,6 +1,6 @@
 ---
-header-dark: false
-footer-dark: false
+header-dark: true
+footer-dark: true
 ---
 
 # The ENHANCE Lab
