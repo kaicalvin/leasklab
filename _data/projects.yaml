@@ -13,3 +13,11 @@
   link: https://www.intechopen.com/chapters/1164551
   description: History and most recent developments in the zebrafish enhancer assay to contribute to both human Mendelian and complex polygenic disease.
   repo: kaiclavin/leasklab
+
+  - title: MAPmap
+  subtitle: Volumetric brain mapping
+  group: techniques
+  image: images/pics2show/F6.png
+  link: _content/MAPmap.md
+  description: How to map structural and activity changes in the zebrafish brain
+  repo: kaiclavin/leasklab
