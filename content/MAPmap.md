@@ -1,6 +1,6 @@
 ---
 title: MAPmap
-permalink: /_content/MAPmap.html
+permalink: content/MAPmap.html
 ---
 
 ## {% include icon.html icon="fa-thin fa-brain" %} MAPmap
