@@ -18,6 +18,6 @@
   subtitle: Volumetric brain mapping
   group: techniques
   image: images/pics2show/DanioV_MAPmap.png
-  link: [MAPmap](MAPmap)
+  link: /_content/MAPmap
   description: How to map structural and activity changes in the zebrafish brain
   repo: kaiclavin/leasklab
