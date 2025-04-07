@@ -16,7 +16,7 @@ nav:
   include figure.html
   image="images/pics2show/41584_2025_1228_Fig1_HTML.webp"
   caption=""
-  width="300px"
+  width="600px"
 %}
 {% endcapture %}
 
