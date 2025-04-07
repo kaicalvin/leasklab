@@ -21,4 +21,4 @@ Here you will find main research themes carried out by us and our collaborators.
 
 ## Techniques
 
-{% include list.html data="tech" component="post-excerpt" %}
+{% include list.html data="post" component="post-excerpt" %}
