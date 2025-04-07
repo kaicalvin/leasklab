@@ -3,7 +3,7 @@ name: Eilish Dalley
 image: images/members/eilish_dalley.jpg
 role: undergrad
 affiliation: Physiology | CNE
-email: @otago.ac.nz
+email:
 ---
 He uri tēnei nō Kāti Māmoe to Kai Tāhu, Ko Eilish Dalley ahau. Kia Ora I’m Eilish and I’m doing my BSc (Hons) in the ENHANCE lab in 2025. This year I am 'Investigating Regulatory Mechanisms of TMEM176B/AOC1.'
 
