@@ -23,4 +23,4 @@ Here you will find our disseminated work.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="bare" %}
+{% include list.html data="citations" component="citation" %}
