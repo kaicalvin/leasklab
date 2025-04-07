@@ -49,7 +49,7 @@ The development of complex diseases such as type two diabetes is multifactorial 
   {%
   include figure.html
   image="images/pics2show/MAPmap.png"
-  caption=""
+  caption="Activity (left) and structural (right) brain mapping"
   width="300px"
 %}
 {% endcapture %}
