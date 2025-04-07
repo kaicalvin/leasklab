@@ -16,7 +16,7 @@ nav:
   include figure.html
   image="images/pics2show/41584_2025_1228_Fig1_HTML.webp"
   caption=""
-  width="600px"
+  width="800px"
 %}
 {% endcapture %}
 
@@ -50,7 +50,7 @@ The development of complex diseases such as type two diabetes is multifactorial 
   include figure.html
   image="images/pics2show/MAPmap.png"
   caption="Activity (left) and structural (right) brain mapping"
-  width="300px"
+  width="600px"
 %}
 {% endcapture %}
 
