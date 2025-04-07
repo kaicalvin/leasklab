@@ -1,8 +1,8 @@
 ---
-title: Research
+title: Projects
 nav:
   order: 1
-  tooltip: Research and Techniques
+  tooltip: Projects and Techniques
 ---
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
