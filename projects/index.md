@@ -15,7 +15,7 @@ nav:
   {%
   include figure.html
   image="images/pics2show/41584_2025_1228_Fig1_HTML.webp"
-  caption=""
+  caption="Map of the Pacific region with the known national prevalences of hyperuricaemia and gout."
   width="800px"
 %}
 {% endcapture %}
@@ -28,7 +28,6 @@ nav:
 
 The ENHANCE lab is dedicated to understanding the genetic factors that influence health outcomes for Māori and Pasifika peoples. Many diseases, such as gout, are prevalent in these populations and have well-established underlying genetic components. Previous research has identified Māori- and Pacific-specific genetic variants linked to disease risk, and we aim to expand this knowledge by identifying new population-specific genetic variants and conducting functional analyses to uncover their biological effects. Genomic databases largely exclude Māori and Pasifika peoples, threatening to widen health inequities as precision medicine advances. By addressing this gap, our research will not only enhance the genomic representation of these populations in health-related studies but also uncover novel disease mechanisms relevant to all populations. Our findings could improve diagnostics, enable early interventions, and lead to more inclusive and effective treatments for all. Here in Aotearoa, we have a unique opportunity to explore how inherited genetic variation in these populations contributes to disease risk, ensuring Māori and Pasifika communities benefit equally from future medical innovations. As a Māori-led lab, we are also committed to strengthening Māori and Pacific genomics by recruiting and mentoring Māori and Pasifika students in this critical field while fostering strong relationships with the communities we serve. By elevating Māori and Pacific genomics into global research, we aim to create to a future where precision medicine is equitable and effective for all.
 
-41584_2025_1228_Fig1_HTML
 
 ## Non-Coding Genetic Elements
 
