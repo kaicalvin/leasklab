@@ -347,7 +347,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-  image: images/pics2show/41588_2024_1921_Fig5_HTML.webp
 - id: pubmed:38992217
   title: 'The pathogenesis of gout: molecular insights from genetic, epigenomic and
     transcriptomic studies.'
