@@ -16,6 +16,9 @@ Here you will find our disseminated work.
 {% capture content %}
 {% include figure.html image="images/pics2show/415882024_1924_fig5_HTML.webp" width="200px" %}
 {% endcapture %}
+{% include float.html content=content %}
+{% include float.html clear=true %}
+
 {% include citation.html lookup="pubmed:39406924" %}
 
 {% include section.html %}
