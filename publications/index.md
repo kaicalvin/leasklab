@@ -14,7 +14,7 @@ Here you will find our disseminated work.
 ## Highlighted
 
 {% capture content %}
-{% include figure.html image="images/pics2show/415882024_1924_fig5_HTML.webp" width="200px" %}
+{% include figure.html image="images/pics2show/41588_2024_1924_fig5_HTML.webp" width="200px" %}
 {% endcapture %}
 {% include float.html content=content %}
 {% include citation.html lookup="pubmed:39406924" %}
