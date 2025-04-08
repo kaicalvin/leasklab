@@ -11,7 +11,7 @@ Here you will find our disseminated work.
 
 {% include section.html %}
 
-## Highlighted
+## Research Highlights
 
 {% capture content %}
 {% include figure.html image="images/pics2show/41588_2024_1921_Fig5_HTML.webp" width="300px" %}
