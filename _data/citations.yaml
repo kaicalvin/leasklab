@@ -363,7 +363,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-  image: images/pics2show/41588_2024_1921_Fig5_HTML.webp
 - id: pubmed:38896441
   title: A Polynesian-specific SLC22A3 variant associates with low plasma lipoprotein(a)
     concentrations independent of apo(a) isoform size in males.
