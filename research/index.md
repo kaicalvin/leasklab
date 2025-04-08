@@ -13,7 +13,10 @@ Here you will find our disseminated work.
 
 ## Highlighted
 
-{% include citation.html lookup="pubmed:39406924" style="rich" %}
+{% capture content %}
+{% include figure.html image="images/pics2show/415882024_1924_fig5_HTML.webp" width="200px" %}
+{% endcapture %}
+{% include citation.html lookup="pubmed:39406924" %}
 
 {% include section.html %}
 
