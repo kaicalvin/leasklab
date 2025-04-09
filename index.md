@@ -51,7 +51,7 @@ Here are the current/active projects in the lab
 
 {%
   include feature.html
-  image="images/pics2show/wfa_whole_larvae.jpg"
+  image="images/pics2show/wfa_half_larvae.jpg"
   link="projects"
   title="Our Projects"
   flip=true
