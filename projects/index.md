@@ -5,8 +5,17 @@ nav:
   tooltip: Projects and Techniques
 ---
 
-# I want to learn more about...
-[## High-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping)
+## I want to learn more about...
+{% capture col1 %}
+[##Equitable Genomics](##equitable-genomics---advancing-research-health-and-capability)
+{% endcapture %}
+{% capture col2 %}
+[##Whole-brain mapping](#MAPmap)
+[##High-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping)
+{% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
+
+
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
 
