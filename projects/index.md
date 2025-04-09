@@ -5,7 +5,8 @@ nav:
   tooltip: Projects and Techniques
 ---
 
-[High-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping)
+# I want to learn more about...
+[## High-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping)
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
 
