@@ -5,6 +5,8 @@ nav:
   tooltip: Projects and Techniques
 ---
 
+[High-throughput behavioural phenotyping]: {% link widgets/index.md %}### High-throughput behavioural phenotyping
+
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
 
 {% include search-info.html %}
