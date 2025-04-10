@@ -5,7 +5,15 @@
   <div class="button-wrapper">
     <a
       class="button"
-      href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
+      {% assign link = button.link | default: "#" %}
+      {% if link startwith '#' %}
+        {% assign final_link = link %}
+      {elseif link contains '://' %}
+        {% assign final_link = link %}
+      {% else %}
+        (% assign final_link | replace: '$link', link | relative_url %}
+      {% endif %}
+      href="{{ final_link}}"
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"
       {% endif %}
