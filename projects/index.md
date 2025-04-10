@@ -5,20 +5,9 @@ nav:
   tooltip: Projects and Techniques
 ---
 
-## I want to learn more about...
-{% capture col1 %}
-{% include button.html type="github" icon="fa-solid fa-flask-vial" text="Equitable Genomics" link="leasklab/projects/#equitable-genomics---advancing-research-health-and-capability" tooltip="Equitable Genomics" %}
-{% include button.html type="github" icon="fa-solid fa-flask-vial" text="Non-Coding Genetic Elements" link="#non-coding-genetic-elements" tooltip="Non-Coding Genetic Elements" %}
-{% include button.html type="github" icon="fa-solid fa-flask-vial" text="JAZF1 and metabolic disorders" link="#jazf1-and-metabolic-disorders" tooltip="JAZF1 and metabolic disorders" %}
-{% include button.html type="github" icon="fa-solid fa-flask-vial" text="Polycystic ovary syndrome" link="index.html#polycystic-ovary-syndrome" tooltip="Polycystic ovary syndrome" %}
-{% endcapture %}
-{% capture col2 %}
-{% include button.html type="github" icon="fa-solid fa-microscope" text="[/leasklab/projects/#mapmap](https://kaicalvin.github.io/leasklab/projects/#mapmap)" tooltip="Whole-brain mapping" %}
-{% include button.html type="github" icon="fa-solid fa-microscope" text="High-throughput behavioural phenotyping" link="https://kaicalvin.github.io/leasklab/projects/#high-throughput-behavioural-phenotyping" tooltip="High-throughput behavioural phenotyping" %}
-{% endcapture %}
-{% include cols.html col1=col1 col2=col2 %}
+# In the ENHANCE lab
 
-
+We are interested in advancing the understanding and treatment of diseases through [gquitable genomics](#equitable-genomics---advancing-research-health-and-capability) with a specific focus on [non-coding genetic elemnts](#non-coding-genetic-elements). Leveraging human genomics data, we use zebrafish as a model to study genes and enhancers (an example of a non-coding element) in [_JAZF1_ and metabolic disorders](#jazf1-and-metabolic-disorders) and the polygenic contribution to [polycystic ovary syndrome](#polycystic-ovary-syndrome). We use state-of-the-art molecular and cell biology techniques, as well as [whole-brain mapping](#mapmap) and [high-throughput behavioural phenotyping](##high-throughput-behavioural-phenotyping) in dissecting the role of genetic elements of interest in health and disease. 
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
 
