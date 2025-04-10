@@ -4,13 +4,6 @@
 {% if button.link or button.icon or button.text %}
   <div class="button-wrapper">
     {% assign link = button.link | default: "#" %}
-
-    {%- comment -%}
-    Determine final_link:
-    - If anchor (starts with #): use as-is
-    - If external (contains '://'): use as-is
-    - Else: apply relative_url
-    {%- endcomment -%}
     {% assign first_char = link | slice: 0, 1 %}
     {% if link contains '://' or first_char == "#" %}
       {% assign final_link = link %}
