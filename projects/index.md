@@ -10,11 +10,11 @@ nav:
 {% include button.html type="github" icon="fa-solid fa-flask-vial" text="Equitable Genomics" link="leasklab/projects/#equitable-genomics---advancing-research-health-and-capability" tooltip="Equitable Genomics" %}
 {% include button.html type="github" icon="fa-solid fa-flask-vial" text="Non-Coding Genetic Elements" link="#non-coding-genetic-elements" tooltip="Non-Coding Genetic Elements" %}
 {% include button.html type="github" icon="fa-solid fa-flask-vial" text="JAZF1 and metabolic disorders" link="#jazf1-and-metabolic-disorders" tooltip="JAZF1 and metabolic disorders" %}
-{% include button.html type="github" icon="fa-solid fa-flask-vial" text="Polycystic ovary syndrome" link="/index.html#polycystic-ovary-syndrome" tooltip="Polycystic ovary syndrome" %}
+{% include button.html type="github" icon="fa-solid fa-flask-vial" text="Polycystic ovary syndrome" link="index.html#polycystic-ovary-syndrome" tooltip="Polycystic ovary syndrome" %}
 {% endcapture %}
 {% capture col2 %}
-{% include button.html type="github" icon="fa-solid fa-microscope" text="Whole-brain mapping" link="/leasklab/projects/#mapmap" tooltip="Whole-brain mapping" %}
-{% include button.html type="github" icon="fa-solid fa-microscope" text="High-throughput behavioural phenotyping" link="#high-throughput-behavioural-phenotyping" tooltip="High-throughput behavioural phenotyping" %}
+{% include button.html type="github" icon="fa-solid fa-microscope" text="[/leasklab/projects/#mapmap](https://kaicalvin.github.io/leasklab/projects/#mapmap)" tooltip="Whole-brain mapping" %}
+{% include button.html type="github" icon="fa-solid fa-microscope" text="High-throughput behavioural phenotyping" link="https://kaicalvin.github.io/leasklab/projects/#high-throughput-behavioural-phenotyping" tooltip="High-throughput behavioural phenotyping" %}
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
 
