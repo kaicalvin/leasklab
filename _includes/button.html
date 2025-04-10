@@ -4,9 +4,14 @@
 {% if button.link or button.icon or button.text %}
   <div class="button-wrapper">
     {% assign link = button.link | default: "#" %}
-    {% if link startswith '#' %}
-      {% assign final_link = link %}
-    {% elsif link contains '://' %}
+
+    {%- comment -%}
+    Determine final_link:
+    - If starts with '#', use as-is (anchor link)
+    - If contains '://', use as-is (external)
+    - Otherwise, apply relative_url (internal path)
+    {%- endcomment -%}
+    {% if link contains '://' or link startswith '#' %}
       {% assign final_link = link %}
     {% else %}
       {% assign final_link = link | replace: '$LINK', link | relative_url %}
