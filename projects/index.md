@@ -7,7 +7,7 @@ nav:
 
 # In the ENHANCE lab
 
-We are interested in advancing the understanding and treatment of diseases through [gquitable genomics](#equitable-genomics---advancing-research-health-and-capability) with a specific focus on [non-coding genetic elemnts](#non-coding-genetic-elements). Leveraging human genomics data, we use zebrafish as a model to study genes and enhancers (an example of a non-coding element) in [_JAZF1_ and metabolic disorders](#jazf1-and-metabolic-disorders) and the polygenic contribution to [polycystic ovary syndrome](#polycystic-ovary-syndrome). We use state-of-the-art molecular and cell biology techniques, as well as [whole-brain mapping](#mapmap) and [high-throughput behavioural phenotyping](##high-throughput-behavioural-phenotyping) in dissecting the role of genetic elements of interest in health and disease. 
+We are interested in advancing the understanding and treatment of diseases through [equitable genomics](#equitable-genomics---advancing-research-health-and-capability) with a specific focus on [non-coding genetic elemnts](#non-coding-genetic-elements). Leveraging human genomics data, we use zebrafish as a model to study genes and enhancers (an example of a non-coding element) in [_JAZF1_ and metabolic disorders](#jazf1-and-metabolic-disorders) and the polygenic contribution to [polycystic ovary syndrome](#polycystic-ovary-syndrome). We use state-of-the-art molecular and cell biology techniques, as well as [whole-brain mapping](#mapmap) and [high-throughput behavioural phenotyping](##high-throughput-behavioural-phenotyping) in dissecting the role of genetic elements of interest in health and disease. 
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
 
