@@ -7,11 +7,12 @@
 
     {%- comment -%}
     Determine final_link:
-    - If starts with '#', use as-is (anchor link)
-    - If contains '://', use as-is (external)
-    - Otherwise, apply relative_url (internal path)
+    - If anchor (starts with #): use as-is
+    - If external (contains '://'): use as-is
+    - Else: apply relative_url
     {%- endcomment -%}
-    {% if link contains '://' or link startswith '#' %}
+    {% assign first_char = link | slice: 0, 1 %}
+    {% if link contains '://' or first_char == "#" %}
       {% assign final_link = link %}
     {% else %}
       {% assign final_link = link | replace: '$LINK', link | relative_url %}
