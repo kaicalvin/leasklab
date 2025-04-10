@@ -3,17 +3,9 @@
 
 {% if button.link or button.icon or button.text %}
   <div class="button-wrapper">
-    {% assign link = button.link | default: "#" %}
-    {% assign first_char = link | slice: 0, 1 %}
-    {% if link contains '://' or first_char == "#" %}
-      {% assign final_link = link %}
-    {% else %}
-      {% assign final_link = link | replace: '$LINK', link | relative_url %}
-    {% endif %}
-
     <a
       class="button"
-      href="{{ final_link }}"
+      href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"
       {% endif %}
