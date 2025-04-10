@@ -7,11 +7,12 @@ nav:
 
 ## I want to learn more about...
 {% capture col1 %}
-[##Equitable Genomics](##equitable-genomics---advancing-research-health-and-capability)
+[Equitable Genomics](##equitable-genomics---advancing-research-health-and-capability)
+{% include button.html type="github" icon="fa-brands fa-flask-vial" text=[Non-Coding Genetic Elements](#non-coding-genetic-elements) tooltip="Non-Coding Genetic Elements" %}
 {% endcapture %}
 {% capture col2 %}
-[##Whole-brain mapping](#MAPmap)  
-[##High-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping)
+[Whole-brain mapping](#MAPmap)  
+[High-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping)
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
 
