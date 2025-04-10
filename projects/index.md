@@ -8,7 +8,7 @@ nav:
 ## I want to learn more about...
 {% capture col1 %}
 [Equitable Genomics](##equitable-genomics---advancing-research-health-and-capability)
-{% include button.html type="github" icon="fa-brands fa-flask-vial" text=[Non-Coding Genetic Elements](#non-coding-genetic-elements) tooltip="Non-Coding Genetic Elements" %}
+{% include button.html type="github" icon="fa-brands fa-flask-vial" text="Non-Coding Genetic Elements" link="#non-coding-genetic-elements" tooltip="Non-Coding Genetic Elements" %}
 {% endcapture %}
 {% capture col2 %}
 [Whole-brain mapping](#MAPmap)  
