@@ -13,7 +13,7 @@ nav:
 {% include button.html type="github" icon="fa-solid fa-flask-vial" text="Polycystic ovary syndrome" link="#polycystic-ovary-syndrome" tooltip="Polycystic ovary syndrome" %}
 {% endcapture %}
 {% capture col2 %}
-{% include button.html type="github" icon="fa-solid fa-microscope" text="Whole-brain mapping" link="/#mapmap" tooltip="Whole-brain mapping" %}
+{% include button.html type="github" icon="fa-solid fa-microscope" text="Whole-brain mapping" link="/projects/index.md/#mapmap" tooltip="Whole-brain mapping" %}
 {% include button.html type="github" icon="fa-solid fa-microscope" text="High-throughput behavioural phenotyping" link="#high-throughput-behavioural-phenotyping" tooltip="High-throughput behavioural phenotyping" %}
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
