@@ -81,3 +81,9 @@ People in our group
   title="Our Team"
   text=text
 %}
+
+# Our funders
+
+{% include figure.html image="images/logos/combo.svg" %}
+
+{% include section.html %}
