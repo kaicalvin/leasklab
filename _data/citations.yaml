@@ -1,5 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40297769
+  title: Reduced Weight Gain with Pioglitazone vs Vildagliptin in
+  authors:
+  - Zanetta L L Toomata
+  - Yannan Jiang
+  - Rui Qian Yeu
+  - Rebecca Brandon
+  - Ry Yves Tweedie-Cullen
+  - Norma Nehren
+  - Glenn Doherty
+  - Huti Watson
+  - Kerry A Macaskill-Smith
+  - Megan Leask
+  - Tony R Merriman
+  - Ryan Paul
+  - Troy L Merry
+  - Peter R Shepherd
+  - Rinki Murphy
+  publisher: 'Diabetes, metabolic syndrome and obesity : targets and therapy'
+  date: '2025-04-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40297769
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40069386
   title: Hyperuricaemia and gout in the Pacific.
   authors:
