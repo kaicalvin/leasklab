@@ -241,29 +241,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:39422716
-  title: The population-specific Thr44Met OCT3 coding variant affects metformin pharmacokinetics
-    with subsequent effects on insulin sensitivity in C57Bl/6J mice.
-  authors:
-  - Qian Wang
-  - Megan P Leask
-  - Kate Lee
-  - Jagdish Jaiswal
-  - Prasanna Kallingappa
-  - Waruni Dissanayake
-  - Chris Puli'uvea
-  - Conor O'Sullivan
-  - Huti Watson
-  - Phillip Wilcox
-  - Rinki Murphy
-  - Troy L Merry
-  - Peter R Shepherd
-  publisher: Diabetologia
-  date: '2024-10-18'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39422716
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:39406924
   title: A genome-wide association analysis reveals new pathogenic pathways in gout.
   authors:
@@ -499,52 +476,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:37250494
-  title: A Polynesian
-  authors:
-  - Jaye Moors
-  - Mohanraj Krishnan
-  - Nick Sumpter
-  - Riku Takei
-  - Matt Bixley
-  - Murray Cadzow
-  - Tanya J Major
-  - Amanda Phipps-Green
-  - Ruth Topless
-  - Marilyn Merriman
-  - Malcolm Rutledge
-  - Ben Morgan
-  - Jenna C Carlson
-  - Jerry Z Zhang
-  - Emily M Russell
-  - Guangyun Sun
-  - Hong Cheng
-  - Daniel E Weeks
-  - Take Naseri
-  - Muagututi'a Sefuiva Reupena
-  - Satupa'itea Viali
-  - John Tuitele
-  - Nicola L Hawley
-  - Ranjan Deka
-  - Stephen T McGarvey
-  - Janak de Zoysa
-  - Rinki Murphy
-  - Nicola Dalbeth
-  - Lisa Stamp
-  - Mele Taumoepeau
-  - Frances King
-  - Phillip Wilcox
-  - Nuku Rapana
-  - Sally McCormick
-  - Ryan L Minster
-  - Tony R Merriman
-  - Megan Leask
-  publisher: HGG advances
-  date: '2023-05-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37250494
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:37234800
   title: "Genetic testing for misclassified monogenic diabetes in M\u0101ori and Pacific\
     \ peoples in A\u014Dtearoa New Zealand with early-onset type 2 diabetes."
@@ -687,25 +618,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:35876900
-  title: Local genetic covariance between serum urate and kidney function estimated
-    with Bayesian multitrait models.
-  authors:
-  - Alexa S Lupi
-  - Nicholas A Sumpter
-  - Megan P Leask
-  - Justin O'Sullivan
-  - Tayaza Fadason
-  - Gustavo de Los Campos
-  - Tony R Merriman
-  - Richard J Reynolds
-  - Ana I Vazquez
-  publisher: G3 (Bethesda, Md.)
-  date: '2022-08-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35876900
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:35451026
   title: A Polynesian-specific copy number variant encompassing the MICA gene associates
     with gout.
@@ -765,18 +677,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:34732286
-  title: 'The genetic basis of urate control and gout: Insights into molecular pathogenesis
-    from follow-up study of genome-wide association study loci.'
-  authors:
-  - Megan P Leask
-  - Tony R Merriman
-  publisher: Best practice & research. Clinical rheumatology
-  date: '2021-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34732286
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:34408667
   title: Genetic and Physiological Effects of Insulin on Human Urate Homeostasis.
   authors:
@@ -821,22 +721,6 @@
   publisher: ACR open rheumatology
   date: '2021-04-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33856739
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:33678313
-  title: The Shared Genetic Basis of Hyperuricemia, Gout, and Kidney Function.
-  authors:
-  - Megan P Leask
-  - Nicholas A Sumpter
-  - Alexa S Lupi
-  - Ana I Vazquez
-  - Richard J Reynolds
-  - David B Mount
-  - Tony R Merriman
-  publisher: Seminars in nephrology
-  date: '2020-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33678313
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -904,99 +788,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:30935422
-  title: Molecular evolutionary trends and feeding ecology diversification in the
-    Hemiptera, anchored by the milkweed bug genome.
-  authors:
-  - Kristen A Panfilio
-  - Iris M Vargas Jentzsch
-  - Joshua B Benoit
-  - Deniz Erezyilmaz
-  - Yuichiro Suzuki
-  - Stefano Colella
-  - Hugh M Robertson
-  - Monica F Poelchau
-  - Robert M Waterhouse
-  - Panagiotis Ioannidis
-  - Matthew T Weirauch
-  - Daniel S T Hughes
-  - Shwetha C Murali
-  - John H Werren
-  - Chris G C Jacobs
-  - Elizabeth J Duncan
-  - "David Armis\xE9n"
-  - Barbara M I Vreede
-  - Patrice Baa-Puyoulet
-  - "Chlo\xE9 S Berger"
-  - Chun-Che Chang
-  - Hsu Chao
-  - Mei-Ju M Chen
-  - Yen-Ta Chen
-  - Christopher P Childers
-  - Ariel D Chipman
-  - Andrew G Cridge
-  - "Antonin J J Crumi\xE8re"
-  - Peter K Dearden
-  - Elise M Didion
-  - Huyen Dinh
-  - Harsha Vardhan Doddapaneni
-  - Amanda Dolan
-  - Shannon Dugan
-  - Cassandra G Extavour
-  - "G\xE9rard Febvay"
-  - Markus Friedrich
-  - Neta Ginzburg
-  - Yi Han
-  - Peter Heger
-  - Christopher J Holmes
-  - Thorsten Horn
-  - Yi-Min Hsiao
-  - Emily C Jennings
-  - J Spencer Johnston
-  - Tamsin E Jones
-  - Jeffery W Jones
-  - Abderrahman Khila
-  - Stefan Koelzer
-  - Viera Kovacova
-  - Megan Leask
-  - Sandra L Lee
-  - Chien-Yueh Lee
-  - Mackenzie R Lovegrove
-  - Hsiao-Ling Lu
-  - Yong Lu
-  - Patricia J Moore
-  - Monica C Munoz-Torres
-  - Donna M Muzny
-  - Subba R Palli
-  - Nicolas Parisot
-  - Leslie Pick
-  - Megan L Porter
-  - Jiaxin Qu
-  - Peter N Refki
-  - Rose Richter
-  - Rolando Rivera-Pomar
-  - Andrew J Rosendale
-  - Siegfried Roth
-  - Lena Sachs
-  - "M Em\xEDlia Santos"
-  - Jan Seibert
-  - Essia Sghaier
-  - Jayendra N Shukla
-  - Richard J Stancliffe
-  - Olivia Tidswell
-  - Lucila Traverso
-  - Maurijn van der Zee
-  - "S\xE9verine Viala"
-  - Kim C Worley
-  - Evgeny M Zdobnov
-  - Richard A Gibbs
-  - Stephen Richards
-  publisher: Genome biology
-  date: '2019-04-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30935422
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:30719032
   title: Functional Urate-Associated Genetic Variants Influence Expression of lincRNAs
   authors:
@@ -1053,24 +844,6 @@
   publisher: Human molecular genetics
   date: '2018-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29860495
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:28922756
-  title: The meiotic regulator JASON utilizes alternative translation initiation sites
-    to produce differentially localized forms.
-  authors:
-  - Simon Cabout
-  - Megan P Leask
-  - Shiny Varghese
-  - Jun Yi
-  - Benjamin Peters
-  - Lei Liu Conze
-  - "Claudia K\xF6hler"
-  - Lynette Brownfield
-  publisher: Journal of experimental botany
-  date: '2017-07-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28922756
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
