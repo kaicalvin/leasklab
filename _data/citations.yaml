@@ -81,7 +81,7 @@
   - Richard D Bagnall
   - Jodie Ingles
   publisher: European heart journal
-  date: '2025-03-05'
+  date: '2025-04-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40038847
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
@@ -130,114 +130,6 @@
   publisher: Frontiers in research metrics and analytics
   date: '2024-11-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39564513
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:39501129
-  title: 'Publisher Correction: A genome-wide association analysis reveals new pathogenic
-    pathways in gout.'
-  authors:
-  - Tanya J Major
-  - Riku Takei
-  - Hirotaka Matsuo
-  - Megan P Leask
-  - Nicholas A Sumpter
-  - Ruth K Topless
-  - Yuya Shirai
-  - Wei Wang
-  - Murray J Cadzow
-  - Amanda J Phipps-Green
-  - Zhiqiang Li
-  - Aichang Ji
-  - Marilyn E Merriman
-  - Emily Morice
-  - Eric E Kelley
-  - Wen-Hua Wei
-  - Sally P A McCormick
-  - Matthew J Bixley
-  - Richard J Reynolds
-  - Kenneth G Saag
-  - Tayaza Fadason
-  - Evgenia Golovina
-  - Justin M O'Sullivan
-  - Lisa K Stamp
-  - Nicola Dalbeth
-  - Abhishek Abhishek
-  - Michael Doherty
-  - Edward Roddy
-  - Lennart T H Jacobsson
-  - Meliha C Kapetanovic
-  - Olle Melander
-  - "Mariano Andr\xE9s"
-  - "Fernando P\xE9rez-Ruiz"
-  - Rosa J Torres
-  - Timothy Radstake
-  - Timothy L Jansen
-  - Matthijs Janssen
-  - Leo A B Joosten
-  - Ruiqi Liu
-  - Orsolya I Gaal
-  - "Tania O Cri\u015Fan"
-  - Simona Rednic
-  - Fina Kurreeman
-  - Tom W J Huizinga
-  - "Ren\xE9 Toes"
-  - "Fr\xE9d\xE9ric Liot\xE9"
-  - Pascal Richette
-  - Thomas Bardin
-  - Hang Korng Ea
-  - Tristan Pascart
-  - Geraldine M McCarthy
-  - Laura Helbert
-  - "Blanka Stib\u016Frkov\xE1"
-  - Anne-K Tausche
-  - Till Uhlig
-  - "V\xE9ronique Vitart"
-  - Thibaud S Boutin
-  - Caroline Hayward
-  - Philip L Riches
-  - Stuart H Ralston
-  - Archie Campbell
-  - Thomas M MacDonald
-  - Akiyoshi Nakayama
-  - Tappei Takada
-  - Masahiro Nakatochi
-  - Seiko Shimizu
-  - Yusuke Kawamura
-  - Yu Toyoda
-  - Hirofumi Nakaoka
-  - Ken Yamamoto
-  - Keitaro Matsuo
-  - Nariyoshi Shinomiya
-  - Kimiyoshi Ichida
-  - Chaeyoung Lee
-  - Linda A Bradbury
-  - Matthew A Brown
-  - Philip C Robinson
-  - Russell R C Buchanan
-  - Catherine L Hill
-  - Susan Lester
-  - Malcolm D Smith
-  - Maureen Rischmueller
-  - Hyon K Choi
-  - Eli A Stahl
-  - Jeff N Miner
-  - Daniel H Solomon
-  - Jing Cui
-  - Kathleen M Giacomini
-  - Deanna J Brackman
-  - Eric M Jorgenson
-  - Hongbo Liu
-  - Katalin Susztak
-  - Suyash Shringarpure
-  - Alexander So
-  - Yukinori Okada
-  - Changgui Li
-  - Yongyong Shi
-  - Tony R Merriman
-  publisher: Nature genetics
-  date: '2024-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39501129
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -387,27 +279,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:38896441
-  title: A Polynesian-specific SLC22A3 variant associates with low plasma lipoprotein(a)
-    concentrations independent of apo(a) isoform size in males.
-  authors:
-  - Qian Wang
-  - Sally McCormick
-  - Megan P Leask
-  - Huti Watson
-  - Conor O'Sullivan
-  - Jeremy D Krebs
-  - Rosemary Hall
-  - Patricia Whitfield
-  - Troy L Merry
-  - Rinki Murphy
-  - Peter R Shepherd
-  publisher: Bioscience reports
-  date: '2024-07-31'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38896441
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:38820906
   title: Further delineation of short-chain enoyl-CoA hydratase deficiency in the
     Pacific population.
@@ -542,27 +413,6 @@
   publisher: HGG advances
   date: '2023-05-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37250494
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:37234800
-  title: "Genetic testing for misclassified monogenic diabetes in M\u0101ori and Pacific\
-    \ peoples in A\u014Dtearoa New Zealand with early-onset type 2 diabetes."
-  authors:
-  - Zanetta Toomata
-  - Megan Leask
-  - Mohanraj Krishnan
-  - Murray Cadzow
-  - Nicola Dalbeth
-  - Lisa K Stamp
-  - Janak de Zoysa
-  - Tony Merriman
-  - Phillip Wilcox
-  - Ofa Dewes
-  - Rinki Murphy
-  publisher: Frontiers in endocrinology
-  date: '2023-05-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37234800
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -735,20 +585,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:35020833
-  title: Genetic association studies of the progression from hyperuricaemia to gout.
-  authors:
-  - Nicholas A Sumpter
-  - Riku Takei
-  - Megan P Leask
-  - Richard J Reynolds
-  - Tony R Merriman
-  publisher: Rheumatology (Oxford, England)
-  date: '2022-05-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35020833
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:34943067
   title: Riboceine Rescues Auranofin-Induced Craniofacial Defects in Zebrafish.
   authors:
@@ -789,21 +625,6 @@
   publisher: Frontiers in physiology
   date: '2021-08-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34408667
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:34348652
-  title: Evolution and genomic organization of the insect sHSP gene cluster and coordinate
-    regulation in phenotypic plasticity.
-  authors:
-  - Megan Leask
-  - Mackenzie Lovegrove
-  - Abigail Walker
-  - Elizabeth Duncan
-  - Peter Dearden
-  publisher: BMC ecology and evolution
-  date: '2021-08-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34348652
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -850,35 +671,6 @@
   publisher: Molecular biology and evolution
   date: '2020-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32134461
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:31985003
-  title: Genomic dissection of 43 serum urate-associated loci provides multiple insights
-    into molecular mechanisms of urate control.
-  authors:
-  - James Boocock
-  - Megan Leask
-  - Yukinori Okada
-  - Hirotaka Matsuo
-  - Yusuke Kawamura
-  - Yongyong Shi
-  - Changgui Li
-  - David B Mount
-  - Asim K Mandal
-  - Weiqing Wang
-  - Murray Cadzow
-  - Anna L Gosling
-  - Tanya J Major
-  - Julia A Horsfield
-  - Hyon K Choi
-  - Tayaza Fadason
-  - Justin O'Sullivan
-  - Eli A Stahl
-  - Tony R Merriman
-  publisher: Human molecular genetics
-  date: '2020-04-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31985003
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1015,24 +807,6 @@
   publisher: Frontiers in genetics
   date: '2019-01-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30719032
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:30124855
-  title: A non-coding genetic variant maximally associated with serum urate levels
-    is functionally linked to HNF4A-dependent PDZK1 expression.
-  authors:
-  - Sarada Ketharnathan
-  - Megan Leask
-  - James Boocock
-  - Amanda J Phipps-Green
-  - Jisha Antony
-  - Justin M O'Sullivan
-  - Tony R Merriman
-  - Julia A Horsfield
-  publisher: Human molecular genetics
-  date: '2018-11-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30124855
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
